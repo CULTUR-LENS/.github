@@ -55,4 +55,6 @@ Cultur Lens is a aplication
 [linkedin-amsal]: https://www.linkedin.com/in/amsal-hamonangan-butarbutar/
 
 ## REPOSITORY EVERY PATH
-
+> Mobile Development <br>
+> Cloud Computing <br>
+> Machine Learning <br>
