@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1538f82b-656b-43ab-9530-a1e2448edaed)
+
 ## What is CulturLens?
 Cultur Lens is a aplication 
 
@@ -51,3 +53,6 @@ Cultur Lens is a aplication
 [linkedin-sintya]: https://www.linkedin.com/in/putu-sintya-kumari-dewi-4aa7a7265
 [linkedin-memes]: https://www.linkedin.com/in/adimemes/
 [linkedin-amsal]: https://www.linkedin.com/in/amsal-hamonangan-butarbutar/
+
+## REPOSITORY EVERY PATH
+
