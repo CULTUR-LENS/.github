@@ -22,9 +22,23 @@ Cultur Lens is a aplication
 - [Bangkit Academy 2023 led by Google, GoTo, & Traveloka](https://kampusmerdeka.kemdikbud.go.id/) 
 - [Merdeka Belajar Kampus Merdeka ](https://kampusmerdeka.kemdikbud.go.id/) 
 
+## Miscellaneous
+> Mobile Development <br>
+- [Machine Learning Repository][github-CulturLens-md]
+> Cloud Computing <br>
+- [Cloud Computing_API Model Repository][github-CulturLens-cc-API-Model]
+- [Cloud Computing_API ML Repository][github-CulturLens-ml-cc-API-ML]
+> Machine Learning <br>
+- [Machine Learning Repository][github-CulturLens-ml]
+
 
 
 [//]: # (LINKS)
+
+[github-CulturLens-md]: https://github.com/CulturLens/culturlens-android
+[github-CulturLens-cc-API-Model]:https://github.com/CulturLens/API-CulturLens
+[github-CulturLens-ml-cc-API-ML]:https://github.com/CulturLens/API-ML
+[github-CulturLens-ml]:https://github.com/CulturLens/Machine_Learning
 
 [github-shield]: https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=white
 
@@ -54,7 +68,4 @@ Cultur Lens is a aplication
 [linkedin-memes]: https://www.linkedin.com/in/adimemes/
 [linkedin-amsal]: https://www.linkedin.com/in/amsal-hamonangan-butarbutar/
 
-## REPOSITORY EVERY PATH
-> Mobile Development <br>
-> Cloud Computing <br>
-> Machine Learning <br>
+
