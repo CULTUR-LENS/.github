@@ -20,7 +20,7 @@ CulturLens is a mobile application that utilizes machine learning to detect sacr
 
 ## Miscellaneous
 > Mobile Development <br>
-- [Machine Learning Repository][github-CulturLens-md]
+- [Mobile Development Repository][github-CulturLens-md]
 > Cloud Computing <br>
 - [Cloud Computing_API Model Repository][github-CulturLens-cc-API-Model]
 - [Cloud Computing_API ML Repository][github-CulturLens-ml-cc-API-ML]
