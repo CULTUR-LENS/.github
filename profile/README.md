@@ -32,7 +32,7 @@ CulturLens is a mobile application that utilizes machine learning to detect sacr
 [//]: # (LINKS)
 
 [github-CulturLens-md]: https://github.com/CulturLens/culturlens-android
-[github-CulturLens-cc-API-Model]:https://github.com/CulturLens/API-CulturLens
+[github-CulturLens-cc-API-Model]:https://github.com/CulturLens/API-Fitur
 [github-CulturLens-ml-cc-API-ML]:https://github.com/CulturLens/API-ML
 [github-CulturLens-ml]:https://github.com/CulturLens/Machine_Learning
 
