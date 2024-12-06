@@ -28,12 +28,13 @@ CulturLens is a mobile application that utilizes machine learning to detect sacr
 - [Machine Learning Repository][github-CulturLens-ml]
 
 ## Brainstorming
-We use a figjam to put all idea, and create scheduling, note for every meet and put a important link for the capstone.
-https://www.figma.com/board/ehLYzHxdjMLNpwE6lRy1sT/Capstone-Project?node-id=271-78&node-type=shape_with_text&t=PX1E3fVdUQsAQlwH-0
+We use a figjam to put all idea, and create scheduling, note for every meet and put a important link for the capstone. <br>
+[link-Figjam]
 
 
 [//]: # (LINKS)
 
+[link-Figjam]: https://www.figma.com/board/ehLYzHxdjMLNpwE6lRy1sT/Capstone-Project?node-id=271-78&node-type=shape_with_text&t=PX1E3fVdUQsAQlwH-0
 [github-CulturLens-md]: https://github.com/CulturLens/culturlens-android
 [github-CulturLens-cc-API-Model]:https://github.com/CulturLens/API-Fitur
 [github-CulturLens-ml-cc-API-ML]:https://github.com/CulturLens/API-ML
