@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1538f82b-656b-43ab-9530-a1e2448edaed)
+![image](https://github.com/user-attachments/assets/bc8dc1e5-4595-401b-9a90-d3dffa2252e6)
 
 ## What is CulturLens?
 CulturLens is a mobile application that utilizes machine learning to detect sacred objects in Bali through the smartphone camera. The app will provide relevant information and restrictions about these objects, enhancing the cultural awareness of users. Additionally, it will feature a community forum for tourists to engage in discussions about Balinese culture and traditions. It is hoped that this application can reduce tourists who violate the traditional values ​​of sacred objects in Bali.
