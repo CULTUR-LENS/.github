@@ -36,7 +36,7 @@ We use a figjam to put all idea, and create scheduling, note for every meet and 
 
 [link-Figjam]: https://www.figma.com/board/ehLYzHxdjMLNpwE6lRy1sT/Capstone-Project?node-id=271-78&node-type=shape_with_text&t=PX1E3fVdUQsAQlwH-0
 [github-CulturLens-md]: https://github.com/CulturLens/culturlens-android
-[github-CulturLens-cc-API-Model]:https://github.com/CulturLens/API-Fitur
+[github-CulturLens-cc-API-Model]:https://github.com/CulturLens/Cloud_Computing
 [github-CulturLens-ml-cc-API-ML]:https://github.com/CulturLens/API-ML
 [github-CulturLens-ml]:https://github.com/CulturLens/Machine_Learning
 
